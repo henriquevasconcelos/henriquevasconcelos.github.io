@@ -4,32 +4,11 @@
 
 ## Pampa Aerodesign 
 
-###[Pampa Propeller Data Set](https://github.com/Pampa-Aerodesign/PampaPropellerDS)
+###Pampa Propeller Data Set
+[Pampa Propeller Data Set](https://github.com/Pampa-Aerodesign/PampaPropellerDS) or PPDS, provides dynamic performance data for all propellers made by [APC](https://www.apcprop.com/), in a analysis-friendly CSV format, separated by propeller and RPM. It enables the continuous update of the data from the latest files provided by APC via a Python Crawler and regex formater. 
+Features in development:
+- A Streamlit app to visualize data from the propeller database;
+- Incorporating unit conversion with [Pint](https://pint.readthedocs.io/en/stable/);
+- A local index of the dataset using a [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
