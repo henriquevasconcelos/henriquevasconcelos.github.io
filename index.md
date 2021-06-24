@@ -19,7 +19,7 @@
 ### Airfoil Optimization
 The team had the task of improving the performance of it's airfoil, to do so we employed a genetic algorithm written in Fortran aiming to maximize
 the lift coeficient (CL) whilst maintaining a minimum thickness and a maximum drag coefficient. The computational costs of these simulations was too high and so 
-I employed Google Cloud's elastic computation service reducing the execution time by a factor of 10. I subsequently also analyzed the performance and plotted the resulting airfoil, which had a 10 % higher CL while holding to the stated optimization constraints.
+I employed Google Cloud's elastic computation service reducing the execution time by a factor of 10. I subsequently also analyzed the performance and plotted the resulting airfoil, which had a 10% higher CL while holding to the stated optimization constraints.
 
 <img src="images/Airfoil.png?raw=true"/>
 
