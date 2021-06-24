@@ -10,6 +10,22 @@
 **Features in development**
 - A Streamlit app to visualize data from the propeller database;
 - Incorporating unit conversion with [Pint](https://pint.readthedocs.io/en/stable/);
-- A local index of the dataset using a [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
+- A local index of the dataset using [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Airfoil Optimization
+The team had the task of improving the performance of it's airfoil, to do so we employed a genetic algorithm written in Fortran aiming to maximize
+the lift coeficient (CL) whilst maintaining a minimum thickness and a maximum drag coefficient. The computational costs of these simulations was too high and so 
+I employed Google Cloud's elastic computation service reducing the execution time by a factor of 10. I subsequently also analyzed the performance and plotted the resulting airfoil, which had a 10 % higher CL while holding to the stated optimization constraints.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### MTOW
+
+
+
