@@ -12,7 +12,7 @@
 - Incorporating unit conversion with [Pint](https://pint.readthedocs.io/en/stable/);
 - A local index of the dataset using [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PPDS_fig.png?raw=true"/>
 
 ---
 
