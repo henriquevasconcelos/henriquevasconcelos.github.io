@@ -5,6 +5,9 @@
 ## Pampa Aerodesign 
 
 ### Pampa Propeller Data Set
+
+<img src="images/ppds_logo.png?raw=true"/>
+
 [Pampa Propeller Data Set](https://github.com/Pampa-Aerodesign/PampaPropellerDS) or PPDS, provides dynamic performance data for all propellers made by [APC](https://www.apcprop.com/), in a analysis-friendly CSV format, separated by propeller and RPM. It enables the continuous update of the data from the latest files provided by APC via a Python Crawler and regex formater. 
 
 **Features in development**
@@ -12,7 +15,10 @@
 - Incorporating unit conversion with [Pint](https://pint.readthedocs.io/en/stable/);
 - A local index of the dataset using [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
 
-<img src="images/PPDS_fig.png?raw=true"/>
+**Analysis**
+I have also [analysed](pdf/propeller_analysis.html) the propellers the team currently owns selecting the best one for use. 
+
+<img src="images/ppds_plots.png?raw=true"/>
 
 ---
 
