@@ -30,5 +30,3 @@ I employed Google Cloud's elastic computation service reducing the execution tim
 
 <img src="images/Airfoil.png?raw=true"/>
 
----
-
