@@ -16,7 +16,8 @@
 - A local index of the dataset using [TinyDB's](https://tinydb.readthedocs.io/en/latest/) JSON database;
 
 **Analysis**
-I have also [analysed](pdf/propeller_analysis.html) the propellers the team currently owns selecting the best one for use. 
+
+I have also [analysed](pdf/propeller_analysis.html) the propellers the team currently using [Pandas](https://pandas.pydata.org/) and [Matplotlib](https://matplotlib.org/) to visualise their performance and select the best one for use. 
 
 <img src="images/ppds_plots.png?raw=true"/>
 
@@ -30,8 +31,4 @@ I employed Google Cloud's elastic computation service reducing the execution tim
 <img src="images/Airfoil.png?raw=true"/>
 
 ---
-
-### MTOW
-
-
 
