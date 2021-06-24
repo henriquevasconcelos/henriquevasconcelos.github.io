@@ -21,7 +21,7 @@ The team had the task of improving the performance of it's airfoil, to do so we 
 the lift coeficient (CL) whilst maintaining a minimum thickness and a maximum drag coefficient. The computational costs of these simulations was too high and so 
 I employed Google Cloud's elastic computation service reducing the execution time by a factor of 10. I subsequently also analyzed the performance and plotted the resulting airfoil, which had a 10 % higher CL while holding to the stated optimization constraints.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/airfoil.png?raw=true"/>
 
 ---
 
