@@ -3,9 +3,12 @@
 ---
 
 ## UVCS
-UVCS is an in development project aiming to map and model pathogens under UV-C light so as to combat hospital infections. This map is continuously updated, informing a robot developed in the project, how much time it should devote to each location to ensure safe and thorough sanitation.
 
-<img src="images/ppds_plots.png?raw=true"/, width=500px>
+<img src="images/uvcs_intro.png?raw=true" width="1250"/>
+
+UVCS is a project in development aiming to map and model pathogens under UV-C light so as to combat hospital infections. This map is continuously updated, informing our robot TALOS, how much time it should devote to each location to ensure safe and thorough sanitation.
+
+I was the main developer of the embeded model, using the work of [Walker and Ko](https://pubs.acs.org/doi/10.1021/es070056u). The model was inplemented initially in Python and then in Julia for increased performance. In the system's current iteration, we estimate a 99% reduction of the pathogens in the room in under one minute.
 
 ## Pampa Aerodesign 
 
