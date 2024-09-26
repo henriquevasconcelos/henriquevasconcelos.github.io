@@ -6,13 +6,13 @@
 
 <img src="images/aeronde_intro.png?raw=true" width="1250"/>
 
-During my internship at AérOnde, I contributed to the development of a pressurization system for an electric Vertical Takeoff and Landing (eVTOL) aircraft. My primary focus was on the Minimal Viable Pressurization System (MFPS) to be used in the initial version of the vehicle and a conceptual exploration for the Mark 1 system.
+During my internship at AérOnde, I contributed to the development of a pressurization system for an electric Vertical Takeoff and Landing (eVTOL) aircraft. My primary focus was on the Minimal Flyable Pressurization System (MFPS) to be used in the initial version of the vehicle and a conceptual exploration for the Mark 1 system.
 
-For the MFPS, I helped define system requirements for both stationary and in-flight scenarios. I selected and characterized a fixed static pressure fan crucial for envelope integrity, and conducted tests on fuse protection and battery autonomy. I designed and built the first 10-20 versions of the system. I later also helped with ground testing it. The system is still used (as of Sep/2024) in crewd flights.
+For the MFPS, I helped define system requirements for both stationary and in-flight scenarios. I selected and characterized a fixed static pressure fan crucial for envelope integrity, and conducted tests on fuse protection and battery autonomy. I designed and built the first 10-20 versions of the system, and later also helped with ground testing. As of Sep/2024, The system is still used  in crewed flights.
 
 In the Mark 1 conceptual phase, I contributed to architectural decisions, advocating for a triple independent module design to enhance reliability. I performed flow rate and valve dimensioning calculations based on operational requirements and explored linear actuator concepts for valve control.
 
-To do these tasks I used a range of tools. In the design phase we used autodesk's Fusion360 for the CAD designs, Jupyter Notebooks for most of the modelling and the calculations. For the prototyping we had access to laser cutters, 3D printers, milling machines, hand drills, etc.
+To do these tasks, I used a range of tools. In the design phase we used Autodesk's Fusion360 for the CAD designs, Jupyter Notebooks for most of the modelling and the calculations. For the prototyping we had access to laser cutters, 3D printers, milling machines, hand drills, etc.
 
 <img src="images/aeronde_close.png?raw=true" width="1250"/>
 
