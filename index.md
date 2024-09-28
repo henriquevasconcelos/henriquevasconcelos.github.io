@@ -6,7 +6,7 @@
 
 <img src="images/deepki_intro.png?raw=true" width="1250"/>
 
-*Paris, France | Feb 2024 - Aug 2024* 
+<i>Paris, France | Feb 2024 - Aug 2024</i>
 
 [Deepki](https://deepki.com/) is the world's largest Climate Tech in the real estate sector, which represents 20-30% of global emissions ([IPCC 2019](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/)). The company helps its clients design, track and implement its decarbonization plans for the 1.6 million buildings it manages in over 69 countries. I worked at Deepki as part of my end of Master's project. As a Customer Solutions Engineer intern, my primary objective was to translate the needs of  Deepki's largest clients into technical solutions. This meant customizing the various modules of the Deepki Ready platform for each client. We did this by working with Deepki's ESG consultants to define the client's needs and draw a platform roadmap for that project. We also interfaced with the product and development teams to improve the platform itself, and also develop internal tools to help us service the roughly 500 different projects we had to manage.
 
@@ -18,9 +18,9 @@ To accomplish these tasks, I utilized a diverse set of tools and technologies. I
 
 ## AérOnde
 
-*Grenoble, France | Feb 2023 - Sep 2023*
-
 <img src="images/aeronde_intro.png?raw=true" width="1250"/>
+
+<i>Grenoble, France | Feb 2023 - Sep 2023</i>
 
 During my time at AérOnde, I contributed to the development of a pressurization system for an electric Vertical Takeoff and Landing (eVTOL) aircraft. My primary focus was on the Minimal Flyable Pressurization System (MFPS) to be used in the initial version of the vehicle and a conceptual exploration for the Mark 1 system.
 
@@ -34,9 +34,9 @@ To do these tasks, I used a range of tools. In the design phase we used Autodesk
 
 ## Jusbrasil
 
-*Remote, Brazil | Sep 2021 - Sep 2022*
-
 <img src="images/jusbrasil_intro.png?raw=true" width="1250"/>
+
+<i>Remote, Brazil | Sep 2021 - Sep 2022</i>
 
 At Jusbrasil, I played a key role in maintaining and evolving the company's data platform. Our team undertook a complete refactoring of the platform, transforming it into a cloud data-lake capable of processing terabytes of data monthly. The project used then cutting-edge technologies including Kafka, BigQuery, Apache Spark, and a suite of custom-built tools.
 
@@ -46,17 +46,17 @@ In addition to my core data engineering responsibilities, I gained valuable expe
 
 ## UVCS
 
-*Remote, Brazil | Aug 2020 - Sep 2021*
-
 <img src="images/uvcs_intro.png?raw=true" width="1250"/>
 
-UVCS is a project in development aiming to map and model pathogens under UV-C light to combat hospital infections. This map is continuously updated, informing our robot TALOS, how much time it should devote to each location to ensure a safe and thorough sanitation. It also aims to develop a web app where hospital managers can track how sanitized each point of each environment is, how many times has each space been sanitized and how much time is needed to clean it. The project won Best Team in the 2020/2021 Entrepreneurial Initiation Program selected by UFRGS and the Chamber of Industry (Senai RS).
+<i>Remote, Brazil | Aug 2020 - Sep 2021</i>
+
+UVCS was a project in development aiming to map and model pathogens under UV-C light to combat hospital infections. This map is continuously updated, informing our robot TALOS, how much time it should devote to each location to ensure a safe and thorough sanitation. It also aims to develop a web app where hospital managers can track how sanitized each point of each environment is, how many times has each space been sanitized and how much time is needed to clean it. The project won Best Team in the 2020/2021 Entrepreneurial Initiation Program selected by UFRGS and the Chamber of Industry (Senai RS).
 
 I was the main developer of the embedded model, which was based on the works of [Walker and Ko](https://pubs.acs.org/doi/10.1021/es070056u), [Sabino et al](https://www.sciencedirect.com/science/article/abs/pii/S1572100020303495?via%3Dihub) and many others. The implementation was initially done in Python but later we switched to Julia for increased performance. In the system's current iteration, we estimate a 99% reduction of the pathogens in the room in under one minute.
 
 ## Pampa Aerodesign 
 
-*Porto Alegre (RS), Brazil | Oct 2019 - Dec 2021*
+<i>Porto Alegre (RS), Brazil | Oct 2019 - Dec 2021</i>
 
 ### Pampa Propeller Data Set
 
