@@ -2,11 +2,27 @@
 
 ---
 
-## AerOnde
+## Deepki
+
+<img src="images/deepki_intro.png?raw=true" width="1250"/>
+
+*Paris, France | Feb 2024 - Aug 2024* 
+
+[Deepki](https://deepki.com/) is the world's largest Climate Tech in the real estate sector, which represents 20-30% of global emissions ([IPCC 2019](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/)). The company helps its clients design, track and implement its decarbonization plans for the 1.6 million buildings it manages in over 69 countries. I worked at Deepki as part of my end of Master's project. As a Customer Solutions Engineer intern, my primary objective was to translate the needs of  Deepki's largest clients into technical solutions. This meant customizing the various modules of the Deepki Ready platform for each client. We did this by working with Deepki's ESG consultants to define the client's needs and draw a platform roadmap for that project. We also interfaced with the product and development teams to improve the platform itself, and also develop internal tools to help us service the roughly 500 different projects we had to manage.
+
+During my internship, I spent a lot of my time with two major clients, [Amundi](https://int.media.amundi.com/real-estate.html) and [Art-Invest](https://www.art-invest.de/en/), both large [REITs](https://en.wikipedia.org/wiki/Real_estate_investment_trust). For Amundi, I updated their carbon emissions pathways to align with the latest CRREM v2 standards, developed custom exports for their AltoRE fund, and resolved critical energy data collection bugs. With Art-Invest, I led the initial platform setup for their portfolio, demoing it for the client. I also implemented tailored risk assessment and alerts panels.
+
+I also did many one-shot implementation tasks, including the creation of specialized ESG forms for Atream's CARAC fund and the development of a comprehensive Mandate Management Panel for Real IS. These projects helped me develop my ability to quickly assess client requirements and deliver targeted solutions under short time frames (< 4 weeks). I was also responsible for the development of the Compare Collections app. This was a transverse task that allowed fellow CSEs to compare data across AWS environments. The app reduced the time it took for to test different methodologies from about a week to a couple of hours.
+
+To accomplish these tasks, I utilized a diverse set of tools and technologies. I worked extensively with Python for scripting, data analysis, and ETL processes, and used MongoDB for database management. I employed AWS services for cloud infrastructure management and leveraged Streamlit and pandas for creating interactive data visualization tools. My role also involved working with YAML configurations, Git for version control, and various data processing and reporting frameworks specific to the Deepki platform.
+
+## AérOnde
+
+*Grenoble, France | Feb 2023 - Sep 2023*
 
 <img src="images/aeronde_intro.png?raw=true" width="1250"/>
 
-During my internship at AérOnde, I contributed to the development of a pressurization system for an electric Vertical Takeoff and Landing (eVTOL) aircraft. My primary focus was on the Minimal Flyable Pressurization System (MFPS) to be used in the initial version of the vehicle and a conceptual exploration for the Mark 1 system.
+During my time at AérOnde, I contributed to the development of a pressurization system for an electric Vertical Takeoff and Landing (eVTOL) aircraft. My primary focus was on the Minimal Flyable Pressurization System (MFPS) to be used in the initial version of the vehicle and a conceptual exploration for the Mark 1 system.
 
 For the MFPS, I helped define system requirements for both stationary and in-flight scenarios. I selected and characterized a fixed static pressure fan crucial for envelope integrity, and conducted tests on fuse protection and battery autonomy. I designed and built the first 10-20 versions of the system, and later also helped with ground testing. As of Sep/2024, The system is still used  in crewed flights.
 
@@ -18,6 +34,8 @@ To do these tasks, I used a range of tools. In the design phase we used Autodesk
 
 ## Jusbrasil
 
+*Remote, Brazil | Sep 2021 - Sep 2022*
+
 <img src="images/jusbrasil_intro.png?raw=true" width="1250"/>
 
 At Jusbrasil, I played a key role in maintaining and evolving the company's data platform. Our team undertook a complete refactoring of the platform, transforming it into a cloud data-lake capable of processing terabytes of data monthly. The project used then cutting-edge technologies including Kafka, BigQuery, Apache Spark, and a suite of custom-built tools.
@@ -28,6 +46,8 @@ In addition to my core data engineering responsibilities, I gained valuable expe
 
 ## UVCS
 
+*Remote, Brazil | Aug 2020 - Sep 2021*
+
 <img src="images/uvcs_intro.png?raw=true" width="1250"/>
 
 UVCS is a project in development aiming to map and model pathogens under UV-C light to combat hospital infections. This map is continuously updated, informing our robot TALOS, how much time it should devote to each location to ensure a safe and thorough sanitation. It also aims to develop a web app where hospital managers can track how sanitized each point of each environment is, how many times has each space been sanitized and how much time is needed to clean it. The project won Best Team in the 2020/2021 Entrepreneurial Initiation Program selected by UFRGS and the Chamber of Industry (Senai RS).
@@ -35,6 +55,8 @@ UVCS is a project in development aiming to map and model pathogens under UV-C li
 I was the main developer of the embedded model, which was based on the works of [Walker and Ko](https://pubs.acs.org/doi/10.1021/es070056u), [Sabino et al](https://www.sciencedirect.com/science/article/abs/pii/S1572100020303495?via%3Dihub) and many others. The implementation was initially done in Python but later we switched to Julia for increased performance. In the system's current iteration, we estimate a 99% reduction of the pathogens in the room in under one minute.
 
 ## Pampa Aerodesign 
+
+*Porto Alegre (RS), Brazil | Oct 2019 - Dec 2021*
 
 ### Pampa Propeller Data Set
 
