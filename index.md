@@ -6,6 +6,7 @@
 
 <img src="images/deepki_intro.png?raw=true" width="1250"/>
 
+<i>Paris, France | Feb 2024 - Current</i>
 
 [Deepki](https://deepki.com/) is the world's largest Climate Tech in the real estate sector, which represents 20-30% of global emissions ([IPCC 2019](https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/)). The company helps its clients design, track and implement its decarbonization plans for the 1.6 million buildings it manages in over 69 countries. I began at Deepki as part of my end of Master's project and was subsequently hired full-time as a Customer Solutions Engineer, where I translate the needs of Deepki's largest clients into technical solutions and lead internal R&D projects.
 
